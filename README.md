@@ -11,7 +11,7 @@
     </td>
     <td style="vertical-align: top;">
       
-      🛐 20 years old                                                                                
+      🛐 20 years old                                                                               
       🎓 studying computer science
       👨🏾‍💻 in a love-hate relationship with coding
       🔫 void (*(*f[])())() - li'l mind exercise
@@ -20,5 +20,18 @@
       
   </tr>
 </table>
+
+---
+
+<div align="center">
+  <h1>
+    Skills and whatnot 🛠️</h1>
+</div>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,py,matlab" />
+  </a>
+</p>
 
 ---
