@@ -11,7 +11,7 @@
     </td>
     <td style="vertical-align: top;">
       
-      🛐 20 years old                                                                               
+      🛐 20 years old                                                                            
       🎓 studying computer science
       👨🏾‍💻 in a love-hate relationship with coding
       🔫 void (*(*f[])())() - li'l mind exercise
@@ -35,3 +35,29 @@
 </p>
 
 ---
+
+
+<div align="center">
+  <h1>Contact Me 🌐</h1>
+</div>
+  <p align="center">
+    <a href="mailto:fieldrats1@gmail.com" style="margin-right: 15px;">
+      <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Email" style="width: 40px; height: 40px;">
+    </a>
+    <a href="https://steamcommunity.com/profiles/76561198286911179/" style="margin-right: 15px;">
+      <img src="https://img.icons8.com/fluent/48/000000/steam.png" alt="Steam" style="width: 40px; height: 40px;">
+    </a>
+    <a href="https://discord.com/users/dsadistic" style="margin-right: 15px;">
+      <img src="https://img.icons8.com/fluent/48/000000/discord.png" alt="Discord" style="width: 40px; height: 40px;">
+    </a>
+  </p>
+
+
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
