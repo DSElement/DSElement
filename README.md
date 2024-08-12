@@ -15,7 +15,7 @@
       🎓 studying computer science
       👨🏾‍💻 in a love-hate relationship with coding
       🔫 void (*(*f[])())() - li'l mind exercise
-      🏐 passionate about volley, anime and cats (ig that counts) 
+      🏐 passionate about volley, anime and cats 
       🪖 Godspeed
       
   </tr>
