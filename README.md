@@ -13,9 +13,7 @@
       
       🛐 20 years old                                                                            
       🎓 studying computer science
-      👨🏾‍💻 in a love-hate relationship with coding
-      🔫 void (*(*f[])())() - li'l mind exercise
-      🏐 passionate about volley, anime and cats 
+      🔫 void (*(*f[])())() - li'l mind exercise 
       🪖 Godspeed
       
   </tr>
