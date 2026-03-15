@@ -41,6 +41,10 @@ Also worked with:
 - Win32 APIs
 - OpenMP
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DSElement&layout=compact&theme=dracula&hide_border=true"/>
+</p>
+
 ---
 
 ## 📂 Featured Projects
