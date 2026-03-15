@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋</h1>
+<h1 align="center">Hello 👋</h1>
 <p align="center">
 Computer Science Student • Software & Systems Projects
 </p>
-
----
 
 <p align="center">
 <a href="mailto:fieldrats1@gmail.com">
