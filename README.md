@@ -2,7 +2,6 @@
 <p align="center">
 Computer Science Student • Software & Systems Projects
 </p>
-
 <p align="center">
 <a href="mailto:fieldrats1@gmail.com">
 <img src="https://img.icons8.com/fluency/48/gmail.png" width="40"/>
@@ -29,16 +28,16 @@ Computer Science Student • Software & Systems Projects
 ## 🧰 Languages & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cs,python,java,kotlin,matlab,linux,dotnet,git,powershell,lua" />
+<img src="https://skillicons.dev/icons?i=c,cs,python,java,kotlin,js,matlab,linux,dotnet,git,vite,powershell,lua" />
 </p>
 
 Also worked with:
-
 - Verilog / HDL
 - Cisco Packet Tracer
 - GNS3
 - Kali Linux
 - Win32 APIs
+- Web Audio API
 - OpenMP
 
 <p align="center">
@@ -60,13 +59,28 @@ Key topics:
 
 ---
 
-### 🧠 Parallel Tic-Tac-Toe AI
-Implementation of a configurable **Tic-Tac-Toe AI** using **Minimax with Alpha-Beta pruning** written in **C**.
+### 🔍 MRET — My Reverse Engineering Tool
+A command-line **Java 21** tool that introspects JAR files using reflection and produces structured class diagrams.
 
 Features:
-- variable board size
-- optional **OpenMP parallelization**
-- benchmarking and performance plots
+- reflection-based analysis of fields, methods, constructors, generics & annotations
+- text (ASCII) and PlantUML output formats
+- package filtering for fat JARs
+- plugin system via a custom `Renderer` interface
+
+---
+
+### 🎵 BZZZ — Frequency Guessing Game
+A browser-based **ear-training game** built with Vanilla JS and the Web Audio API. Listen to a tone and guess its frequency across 5 rounds, scored out of 500.
+
+Features:
+- sine oscillator with harmonics via Web Audio API
+- logarithmic scoring based on pitch accuracy
+- live audio preview while dragging the frequency slider
+- shareable challenge links to compete with friends
+- fully client-side, no backend or accounts
+
+**[▶ Play it live](https://poetic-shortbread-21cf39.netlify.app)**
 
 ---
 
