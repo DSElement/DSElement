@@ -1,5 +1,3 @@
-![Neofetch Stats](https://neofetch-profile.vercel.app/api?username=DSElement&theme=github-dark&config=https%3A%2F%2Fraw.githubusercontent.com%2FDSElement%2FDSElement%2Fmain%2Fneofetch.json&v=1)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dan--ghincul-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/dan-ghincul/)
 [![Email](https://img.shields.io/badge/Email-dan.ghincul01%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dan.ghincul01@gmail.com)
 
