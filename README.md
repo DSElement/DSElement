@@ -13,15 +13,14 @@
 ## Featured Projects
 
 ### [QuizMaster](https://github.com/DSElement/Access-Quizmaster)
-Full-stack quiz platform built as an AC Labs trainee at The Access Group. A React/TypeScript frontend and an ASP.NET Core REST API with EF Core on SQL Server provide Microsoft Entra ID sign-in, owner-only editing and server-side grading that keeps answer keys off the client. Quizzes are generated from source text by a local Ollama model through a tool-calling agent that submits structured questions, which are validated and resubmitted on error. A separate console app answers questions over a document set using RAG with Qdrant.
+Full-stack quiz platform, rebuilt from scratch after the AC Labs training program at The Access Group. Users take official quizzes, write their own and share them with the community; accounts use ASP.NET Core Identity with admin and user roles, and answers are graded on the server without exposing the answer key. Uploaded PDFs are indexed by a background worker into overlapping chunks, embedded with Gemini and stored in PostgreSQL with pgvector for similarity search. A Gemini tool-calling agent then searches the document and writes a quiz draft, which is rejected and retried until every question has four distinct options, no giveaway answer and a citation to a chunk the agent actually read.
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=dotnet&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
